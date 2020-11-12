@@ -4,7 +4,7 @@ professional assembly language.
 ## platform & tools
  - use AT&amp;T asm 
  - x86_64 arch
- - Linux
+ - linux
  - gcc
  - as assembler
  - ld linker
@@ -13,3 +13,4 @@ professional assembly language.
 
 ## contents
 - loop print elements in array.
+- cmov instruction.
